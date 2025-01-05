@@ -1,0 +1,175 @@
+body{
+    background-color: #131313;
+    margin: 0px;
+    color: #D9DDDE;
+    font-size: 14px;
+  
+
+}
+#container{
+    width: 940px;
+    height: auto;
+    margin: auto;   
+}
+header{
+    width: 940px;  
+    height: 80px;
+    margin-bottom: 20px;
+    background-color: #232323;  
+}
+#logo_slogan{
+    width: 400px;
+    height: 80px;
+    margin-left: 20px;
+    margin-right: 20px; 
+    float: left;
+}
+nav{
+    width: 500px;
+    height: 80px;
+    float: left; 
+}
+#logo{
+  
+    height: 50px;
+    line-height: 50px;
+    color: #FDC609 ;
+    font-size: 32px;
+}
+#slogan{
+    height: 30px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 30px;
+}
+#menu{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+#menu li{
+    float: left;
+    margin-right:2px; ;
+}
+#menu a{
+    text-decoration: none;
+    display: block;
+    line-height: 80px;
+    font-size: 16px;
+    color: #ffffff;
+    font-weight: bold;
+    width: 92px;
+}
+#menu a:hover{
+    color: #FDC609;
+}
+section{
+    width: 940px;
+    height: auto;
+}
+#ressol{
+    width: 570px;
+    height: 300px;
+    float: left;
+}
+#ressag{
+    padding: 10px;
+    width: 340px;
+    height: 280px;
+    margin-left: 10px;
+    background-color: #FDC609 ;
+    float: left;
+    color: #131313;
+}
+#baslik{
+    margin-top: 10px;
+    height: 50px;
+    font-size: 32px;
+    color: #4E584D ;
+}
+#icerik{
+    color: #4E584D;
+    height: 100px;
+    margin-top: 10px;
+    font-size: 12px;
+}
+#kutu1{
+    width:100px ;
+    height:100px ;
+    background-color:#232323  ;
+    float: left;
+    border-radius: 10px;
+    text-align: center;
+    color: #FFFFFF ;
+    line-height: 100px;
+}
+#kutu2{
+    width:100px ;
+    height:100px ;
+    background-color:#232323  ;
+    float: left;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: #FFFFFF ;
+    line-height: 100px;
+}
+#kutu3{
+    width:100px ;
+    height:100px ;
+    background-color:#232323  ;
+    float: left;
+    border-radius: 10px;
+    text-align: center;
+    color: #FFFFFF ;
+    line-height: 100px;
+}
+#sol{
+    width: 300px;
+    float: left;
+    height: auto;
+}
+#ort{
+    width: 300px;
+    float: left;
+    height: auto;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#sag{
+    width: 300px;
+    float: left;
+    height: auto;
+}
+.alt_baslik{
+    height: 50px;
+    font-size: 32px;
+    margin: 10px 0px 10px 0px;
+    border-bottom: 2px dashed #D9DDDE;
+}
+.alt_resim{
+    width: 300px;
+    height: 150px;
+}
+.alt_icerik{
+    height: 180px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+ 
+
+}
+.alt_detay{
+    width: 100px;
+    height: 30px;
+    background-color: #232323;
+    color: #FDC609;
+    line-height: 30px;
+    text-align: center;
+}
+.alt_detay a{
+    color: #FDC609;
+    display: block;
+    text-decoration: none;
+    
+}
